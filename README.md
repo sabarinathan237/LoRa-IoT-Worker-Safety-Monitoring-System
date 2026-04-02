@@ -59,6 +59,3 @@ This project focuses on enhancing the safety of industrial workers operating in 
 ## 📷 Project Images
 ![LoRa and IoT-Enabled Industrial Worker Safety Monitoring and Rescue System](https://github.com/user-attachments/assets/98072655-0cb0-4aae-8ad9-9432b64ba08f)
 
-
-## 👨‍💻 Author
-SABARINATHAN S
